@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-03-image-finder/static/css/main.f1e07c1a.chunk.css",
-    "main.js": "/goit-react-hw-03-image-finder/static/js/main.14223a3d.chunk.js",
-    "main.js.map": "/goit-react-hw-03-image-finder/static/js/main.14223a3d.chunk.js.map",
+    "main.css": "/goit-react-hw-03-image-finder/static/css/main.e6941dd3.chunk.css",
+    "main.js": "/goit-react-hw-03-image-finder/static/js/main.3be0bf50.chunk.js",
+    "main.js.map": "/goit-react-hw-03-image-finder/static/js/main.3be0bf50.chunk.js.map",
     "runtime~main.js": "/goit-react-hw-03-image-finder/static/js/runtime~main.c2cff7a1.js",
     "runtime~main.js.map": "/goit-react-hw-03-image-finder/static/js/runtime~main.c2cff7a1.js.map",
-    "static/css/2.39017165.chunk.css": "/goit-react-hw-03-image-finder/static/css/2.39017165.chunk.css",
-    "static/js/2.f844de45.chunk.js": "/goit-react-hw-03-image-finder/static/js/2.f844de45.chunk.js",
-    "static/js/2.f844de45.chunk.js.map": "/goit-react-hw-03-image-finder/static/js/2.f844de45.chunk.js.map",
+    "static/js/2.3a52c17b.chunk.js": "/goit-react-hw-03-image-finder/static/js/2.3a52c17b.chunk.js",
+    "static/js/2.3a52c17b.chunk.js.map": "/goit-react-hw-03-image-finder/static/js/2.3a52c17b.chunk.js.map",
     "index.html": "/goit-react-hw-03-image-finder/index.html",
-    "precache-manifest.8ee4933b27d7da8829e1d6391e704fe0.js": "/goit-react-hw-03-image-finder/precache-manifest.8ee4933b27d7da8829e1d6391e704fe0.js",
+    "precache-manifest.a15d7e409de219ea560fb91d9976b57d.js": "/goit-react-hw-03-image-finder/precache-manifest.a15d7e409de219ea560fb91d9976b57d.js",
     "service-worker.js": "/goit-react-hw-03-image-finder/service-worker.js",
-    "static/css/2.39017165.chunk.css.map": "/goit-react-hw-03-image-finder/static/css/2.39017165.chunk.css.map",
-    "static/css/main.f1e07c1a.chunk.css.map": "/goit-react-hw-03-image-finder/static/css/main.f1e07c1a.chunk.css.map"
+    "static/css/main.e6941dd3.chunk.css.map": "/goit-react-hw-03-image-finder/static/css/main.e6941dd3.chunk.css.map"
   }
 }
